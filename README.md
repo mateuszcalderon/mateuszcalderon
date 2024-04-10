@@ -12,4 +12,4 @@ I'm a Systems Development & Analysis student and here I'll share both my coding 
 **🔎 Find me:**
 * [beecrowd](https://judge.beecrowd.com/en/profile/957088)
 * [Instagram](https://www.instagram.com/mateuszcalderon/)
-* [LinkedIn](https://www.linkedin.com/in/mateus-calderon/)
+* [LinkedIn](https://www.linkedin.com/in/mateuszcalderonreis/)
