@@ -1,7 +1,6 @@
-### Hello there, my name is Mateus!
-#### Welcome to my GitHub!
+### Hello there, welcome to my GitHub!
 
-I'm a Systems Development & Analysis student and here I'll share both my coding for fun as well as class projects.
+📖 I'm a Systems Development & Analysis student and here I'll share both my coding for fun as well as class projects.
 
 **🖥️ Skills:**
 * C#
