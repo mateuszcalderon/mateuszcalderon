@@ -7,6 +7,7 @@
 * C++
 * Java
 * Python
+* SQL
 
 **🔎 Find me:**
 * [beecrowd](https://judge.beecrowd.com/en/profile/957088)
