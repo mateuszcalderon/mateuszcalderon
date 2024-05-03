@@ -2,10 +2,9 @@
 
 📖 I'm a Systems Development & Analysis student and here I'll share both my coding for fun as well as class projects.
 
-**🖥️ Skills:**
-* C#
+**🖥️ Programming Skills:**
+* C
 * C++
-* Java
 * Python
 * SQL
 
