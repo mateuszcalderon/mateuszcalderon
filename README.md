@@ -2,13 +2,10 @@
 
 📖 I'm a Systems Development & Analysis student and here I'll share both my coding for fun as well as class projects.
 
-**🖥️ Programming Skills:**
-* C
-* C++
-* Python
-* SQL
+**🖥️ Skills:**
+* PROFICIENT: C • C++ • Python
+* PREVIOUS EXPERIENCE: CSS • HTML • Java • SQL
 
 **🔎 Find me:**
-* [beecrowd](https://judge.beecrowd.com/en/profile/957088)
 * [Instagram](https://www.instagram.com/mateuszcalderon/)
 * [LinkedIn](https://www.linkedin.com/in/mateuszcalderonreis/)
