@@ -2,7 +2,7 @@
 
 📖 I'm a Systems Development & Analysis student and here I'll share both my coding for fun as well as class projects.
 
-**🖥️ Skills:**
+**🖥️ Coding skills:**
 * PROFICIENT: **C • C++ • Python**
 * BEGINNER: **CSS • HTML • Java • SQL**
 
