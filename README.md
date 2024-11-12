@@ -8,6 +8,6 @@
 
 **🔎 Find me:**
 <p align="center">
-  <br/><a href="https://www.instagram.com/mateuszcalderon/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="30" height="30"/></a>
-  <a href="https://www.linkedin.com/in/mateuszcalderonreis/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30" height="30"/></a>
+  <br/><a href="https://www.instagram.com/mateuszcalderon/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="30" height="30"/></a>
+  <a href="https://www.linkedin.com/in/mateuszcalderonreis/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30" height="30"/></a>
 </p>
