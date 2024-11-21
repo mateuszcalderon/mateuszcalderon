@@ -1,19 +1,15 @@
-<h1 align="center">Hello there, welcome to my GitHub!</h1>
+<div align="center">
+  <h1>Hello there, welcome to my GitHub!</h1>
+</div>
 
-<h3 align="center">I'm a Systems Development & Analysis student passionate about coding and building projects. I enjoy solving problems with code and learning new technologies along the way.</h3>
+<div align="center">
+  <h3>I'm a Systems Development & Analysis student passionate about coding and building projects. I enjoy solving problems with code and learning new technologies along the way.</h3>
+</div>
 
-<h4><b>🖥️ Coding skills:</b></h4>
-<ul>
-  <li>PROFICIENT: C | C++ | Python</li>
-  <li>BEGINNER: CSS | HTML | Java | SQL</li>
-</ul>
+#### 🖥️ Coding skills:
+- **PROFICIENT:** C | C++ | Python
+- **BEGINNER:** CSS | HTML | Java | SQL
 
-<h4><b>🔎 Find me:</b></h4>
-<p>
-  <a href="https://www.instagram.com/mateuszcalderon/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="30" height="30"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mateuszcalderonreis/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30" height="30"/>
-  </a>
-</p>
+#### 🔎 Find me:
+[![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg)](https://www.instagram.com/mateuszcalderon/)
+[![LinkedIn](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/mateuszcalderonreis/)
