@@ -11,13 +11,29 @@
     More about me:
   </summary>
 
-#### My skills:
-- **PROFICIENT:** C | C++ | Python
-- **BEGINNER:** CSS | HTML | Java | SQL
+## My skills:
+#### Coding:
+  - **C**
+  - **C++**
+  - **HTML, CSS**
+  - **Java**
+  - **Python (Django)**
 
-#### 🔎 Find me:
-[![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/instagram.svg)](https://www.instagram.com/mateuszcalderon/)
-[![LinkedIn](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/mateuszcalderonreis/)
-[![GitHub](https://github.com/CLorant/readme-social-icons/blob/main/large/filled/github.svg)](https://github.com/mateuszcalderon)
+#### Languages:
+| Language    | Proficiency |
+| ----------- | ----------- |
+| English     | Bilingual   |
+| Portuguese  | Native      |
+
+## Find me:
+  - [GitHub](https://github.com/mateuszcalderon)
+  - [Instagram](https://www.instagram.com/mateuszcalderon/)
+  - [LinkedIn](https://www.linkedin.com/in/mateuszcalderonreis/)
+
+<div align="center">
+  <blockquote>
+    "It's not who I am underneath, but what I do that defines me." 🦇
+  </blockquote>
+</div>
 
 </details>
