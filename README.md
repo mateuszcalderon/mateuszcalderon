@@ -10,13 +10,6 @@
 #### 💻 Coding:
 I often use in my projects: ` .cpp `, ` .css `, ` .html `, ` .js `, ` .py `
 
-#### 🛠️ DBs and Frameworks:
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="40"/>
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/express/express-original-wordmark.svg" height="40" width="40"/>
-    <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/django/django-plain-wordmark.svg" height="40" width="40"/>
-  </div>
-
 #### 🗣️ Languages:
   - **Português**: Native
   - **English**: Bilingual proficiency
