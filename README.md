@@ -19,3 +19,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode">
 </p>
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mateuszcalderon&theme=tokyonight&hide_border=true"/>
+</p>
